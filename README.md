@@ -18,19 +18,31 @@
 </div>
 
 ---
-
+<p align="center">
 <h2 align="center">🌟 About me 🌟</h2>
+  <br>
+  <br>
 - 💻 I’m currently continue learning **Python, Backend Developmentv**
+  <br>
 - 🛠 I’m currently working on own **Django-Project**
+  <br>
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/eminencesaul/), [email](mailto:k.pavel080@gmail.com)
+  <br>
 - 👯 I’m looking to collaborate as a developer
+  <br>
 - ⚡ I used to be involved in the HoReCa business.
+  <br>
 - 🌍 I speak English, German, Russian
+  <br>
 - 👾 Fun fact: I like tennis, hiking and brazilian jiu-jitsu 
+</p>
 
 ---
 
+<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
@@ -40,7 +52,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="40" height="40"/>&nbsp;
-
+</p>
+</hr>
 
 ### Projects and Dev Stuffs:
 <details>
