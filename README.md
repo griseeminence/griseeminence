@@ -5,7 +5,6 @@
 </h1>
 
 <div id="header" align="center">
-    <h1>Hi there, I'm Paul </h1>
     <h3>Junior Python Developer from Bali</h3>
 </div>
 
@@ -42,12 +41,15 @@
 
 
 ### My stat
-
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=griseeminence&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=griseeminence&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=griseeminence&theme=github_dark" alt=""/>
 </div>
+</details>
 
 ---
 
