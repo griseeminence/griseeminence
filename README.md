@@ -17,9 +17,11 @@
   </a>
 </div>
 
-<img align="center" height="480" width="457" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQxaGJ6dXc3MW83Z2M2NG1sZHg4djZ2YTlsYzRnemx4bnU4cGIzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img align="right" height="480" width="457" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQxaGJ6dXc3MW83Z2M2NG1sZHg4djZ2YTlsYzRnemx4bnU4cGIzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-### About me
+---
+
+<h2 align="center">🌟 About me 🌟</h2>
 - 💻 I’m currently continue learning **Python, Backend Developmentv**
 - 🛠 I’m currently working on own **Django-Project**
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/eminencesaul/), [email](mailto:k.pavel080@gmail.com)
@@ -30,7 +32,7 @@
 
 ---
 
-### Languages and tools
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
