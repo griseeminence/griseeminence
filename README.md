@@ -17,9 +17,9 @@
   </a>
 </div>
 
----
-<p align="center">
-<h2 align="center">🌟 About me 🌟</h2>
+
+
+<h2 align="center"> About me </h2>
   <br>
   <br>
 - 💻 I’m currently continue learning **Python, Backend Developmentv**
@@ -35,12 +35,10 @@
 - 🌍 I speak English, German, Russian
   <br>
 - 👾 Fun fact: I like tennis, hiking and brazilian jiu-jitsu 
-</p>
 
----
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
@@ -67,8 +65,6 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=griseeminence&theme=github_dark" alt=""/>
 </div>
 </details>
-
----
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
