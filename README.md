@@ -19,7 +19,7 @@
 
 <h2 align="center"> About me </h2>
 
-- 💻 I’m currently continue learning **Python, Backend Developmentv**
+- 💻 I’m currently continue learning **Python, Backend Development**
 
 - 🛠 I’m currently working on own **Django-Project**
 
