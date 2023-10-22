@@ -17,9 +17,7 @@
   </a>
 </div>
 
----
-<img align="center" height="480" width="457" alt="" src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" />
----
+<img align="center" height="480" width="457" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQxaGJ6dXc3MW83Z2M2NG1sZHg4djZ2YTlsYzRnemx4bnU4cGIzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ### About me
 - 💻 I’m currently continue learning **Python, Backend Developmentv**
