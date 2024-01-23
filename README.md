@@ -60,31 +60,15 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
 
-  <div style="width: 200px; margin: 10px; text-align: center;">
-    <a href="https://github.com/griseeminence/Algorithms" title="Algorithms">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
+[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/Algorithms)
 
-  <div style="width: 200px; margin: 10px; text-align: center;">
-    <a href="https://github.com/griseeminence/sold" title="S_O_L_D">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
+[![S_O_L_D](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/sold)
 
-  <div style="width: 200px; margin: 10px; text-align: center;">
-    <a href="https://github.com/griseeminence/digital-guru" title="Digital-Guru">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
+[![Digital-Guru](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/digital-guru)
 
-  <div style="width: 200px; margin: 10px; text-align: center;">
-    <a href="https://github.com/griseeminence/foodgram-project-react" title="Foodgram">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
+[![Foodgram](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/foodgram-project-react)
 
 </div>
 
