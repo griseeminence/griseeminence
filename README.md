@@ -60,31 +60,34 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-<div style="text-align: center;">
-  <div style="width: 200px; display: inline-block; margin: 10px; text-align: center;">
+<div style="display: flex; justify-content: center;">
+
+  <div style="width: 200px; margin: 10px; text-align: center;">
     <a href="https://github.com/griseeminence/Algorithms" title="Algorithms">
       <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10">
     </a>
   </div>
 
-  <div style="width: 200px; display: inline-block; margin: 10px; text-align: center;">
+  <div style="width: 200px; margin: 10px; text-align: center;">
     <a href="https://github.com/griseeminence/sold" title="S_O_L_D">
       <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10">
     </a>
   </div>
 
-  <div style="width: 200px; display: inline-block; margin: 10px; text-align: center;">
+  <div style="width: 200px; margin: 10px; text-align: center;">
     <a href="https://github.com/griseeminence/digital-guru" title="Digital-Guru">
       <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10">
     </a>
   </div>
 
-  <div style="width: 200px; display: inline-block; margin: 10px; text-align: center;">
+  <div style="width: 200px; margin: 10px; text-align: center;">
     <a href="https://github.com/griseeminence/foodgram-project-react" title="Foodgram">
       <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10">
     </a>
   </div>
+
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
