@@ -5,7 +5,7 @@
 </h1>
 
 <div id="header" align="center">
-    <h3>Junior Python Developer from Bali</h3>
+    <h3>Junior Python Developer</h3>
 </div>
 
 <div id="socials" align="center">
