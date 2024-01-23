@@ -12,16 +12,16 @@
     <a href="https://www.linkedin.com/in/eminencesaul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/p_kolts">
+  <a href="https://t.me/em_saul">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 <h2 align="center"> About me </h2>
 
-- 💻 I’m currently continue learning **Python, Backend Development**
+- 💻 Learning **Python, Backend Development**
 
-- 🛠 I’m currently working on own **Django-Project**
+- 🛠 Working on own **Django-Project**
 
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/eminencesaul/), [email](mailto:k.pavel080@gmail.com)
 
