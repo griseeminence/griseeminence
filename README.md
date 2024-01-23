@@ -60,21 +60,22 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/griseeminence/Algorithms" title="Algorithms"><img align="left" height="115" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<div style="width: 100%; text-align: center;">
+  <a style="display: inline-block; margin: 0 10px;" href="https://github.com/griseeminence/Algorithms" title="Algorithms">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/griseeminence/sold" title="S_O_L_D"><img align="left" height="115" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+  <a style="display: inline-block; margin: 0 10px;" href="https://github.com/griseeminence/sold" title="S_O_L_D">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/griseeminence/digital-guru" title="Digital-Guru"><img align="left" height="115" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+  <a style="display: inline-block; margin: 0 10px;" href="https://github.com/griseeminence/digital-guru" title="Digital-Guru">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/griseeminence/foodgram-project-react" title="Foodgram"><img align="left" height="115" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a style="display: inline-block; margin: 0 10px;" href="https://github.com/griseeminence/foodgram-project-react" title="Foodgram">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
