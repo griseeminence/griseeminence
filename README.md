@@ -66,7 +66,7 @@
 
 [![PARAplanner](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=PARAplanner&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/PARAplanner)
 
-[![Digital-Guru](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/digital-guru)
+[![vv_parser](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=vv_parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/vv_parser)
 
 [![Foodgram](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/foodgram-project-react)
 
