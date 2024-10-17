@@ -68,6 +68,8 @@
 
 [![vv_parser](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=vv_parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/vv_parser)
 
+[![cinemator](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=cinemator&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/cinemator)
+
 [![Foodgram](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=foodgram-project-react&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/foodgram-project-react)
 
 </div>
