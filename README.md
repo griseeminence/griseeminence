@@ -64,7 +64,7 @@
 
 [![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/Algorithms)
 
-[![S_O_L_D](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/sold)
+[![PARAplanner](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=sold&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/PARAplanner)
 
 [![Digital-Guru](https://github-readme-stats.vercel.app/api/pin/?username=griseeminence&repo=digital-guru&theme=react&border_color=61dafb&border_radius=10)](https://github.com/griseeminence/digital-guru)
 
