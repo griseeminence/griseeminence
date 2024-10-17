@@ -57,6 +57,7 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=griseeminence&theme=github_dark" alt=""/>
 </div>
 </details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
